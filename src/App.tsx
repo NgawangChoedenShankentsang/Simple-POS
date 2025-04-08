@@ -59,7 +59,7 @@ function App() {
     {
       id: 6,
       name: 'Spring Roll',
-      price: 3,
+      price: 2.50,
       category: 'Sides',
       image: 'https://www.elmundoeats.com/wp-content/uploads/2024/02/A-stack-of-crispy-spring-rolls-on-a-plate-1024x1536.jpg'
     },
