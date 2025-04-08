@@ -43,13 +43,13 @@ function App() {
       name: 'Vegi Chowmein',
       price: 8,
       category: 'Main',
-      image: 'https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?w=800',
+      image: 'https://greenbowl2soul.com/wp-content/uploads/2023/03/vegetable-chow-mein.jpg',
       hasSmallVersion: true,
       smallPrice: 6
     },
     {
       id: 5,
-      name: 'Rice Chicken',
+      name: 'Rice + Curry/Sweet&Sour',
       price: 12,
       category: 'Main',
       image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800',
